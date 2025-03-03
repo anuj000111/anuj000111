@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Development 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on some basic projects
-- 📫 How to reach me 
+- 📫 Reach me through Linkedin- https://www.linkedin.com/in/anuj-anuj0111/
 
 <!---
 anuj000111/anuj000111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
